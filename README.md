@@ -1,3 +1,3 @@
-# K-Nearest-Neighbour
+# K-Nearest-Neighbour Classifier
 
-K-Nearest-Neighbour in Python from Scratch
+K-Nearest-Neighbour Algorithm in Python from Scratch
